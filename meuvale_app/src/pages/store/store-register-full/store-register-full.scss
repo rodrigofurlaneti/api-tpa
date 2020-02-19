@@ -1,0 +1,17 @@
+page-store-register-full {
+    .avatar {
+        margin-left: 45%;
+    }
+
+    @media screen and (min-width: 401px) {
+        .font-size {
+            font-size: 3vw;
+        }
+    }
+
+    @media screen and (max-width: 400px) {
+        .font-size {
+            font-size: 7px;
+        }
+    }
+}
